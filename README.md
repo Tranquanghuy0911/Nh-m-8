@@ -1,5 +1,5 @@
 
-STT	MSSV	Họ và Tên
+
 1	1721031099	Vũ Đình Mạnh
 2	1721031693	Huỳnh Minh Tiến
 3	1721031203	Nguyễn Tiến Đạt
